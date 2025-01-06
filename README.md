@@ -40,11 +40,20 @@ Welcome to **Library Management System**, a comprehensive solution for managing 
 
 Here are some screenshots showcasing the user interface of the Library Management System:
 
-![Screenshot 1](screenshot1.png)  
-_The Add Book form_
+![Initial Database with No Books](public/screenshots/intial_database_no_books.png)
 
-![Screenshot 2](screenshot2.png)  
-_View all Books_
+
+![Added 1 Book The Alchemist](public/screenshots/added_1_book_the%20Alchemist.png)
+
+
+![Updated Database After 2 Books Added](public/screenshots/Updated_database_after_2book_added.png)
+
+
+![Interface How to Add Books](public/screenshots/interface_how_to_add_books.png)
+
+
+![Database After Adding Wings of Fire](public/screenshots/database_after_addinf_wings_of_fire.png)
+
 
 ## Getting Started
 
