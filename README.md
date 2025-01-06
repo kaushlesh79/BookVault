@@ -77,7 +77,8 @@ Follow these steps to set up the project locally:
     ```
 5.Start the backend server:
     ```bash
-    npm start
+     
+     npm start
     ```
 6.Start the frontend server:
    ```bash
