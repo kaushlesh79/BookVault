@@ -44,6 +44,10 @@ Here are some screenshots showcasing the user interface of the Library Managemen
 
 Here are some screenshots showcasing the user interface of the Library Management System:
 
+## Screenshots
+
+Here are some screenshots showcasing the user interface of the Library Management System:
+
 ### Initial Database with No Books
 ![Initial Database with No Books](public/screenshots/intial_database_no_books.png)
 
@@ -55,6 +59,9 @@ Here are some screenshots showcasing the user interface of the Library Managemen
 
 ### Updated Database After Adding 2 Books
 ![Updated Database After Adding 2 Books](public/screenshots/Updated_database_after_2book_added.png)
+
+### Database After Adding Wings of Fire
+![Database After Adding Wings of Fire](public/screenshots/database_after_addinf_wings_of_fire.png)
 
 
 
