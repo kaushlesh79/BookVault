@@ -58,7 +58,8 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kaushlesh79/library-management-system.git
+   git clone https://github.com/kaushlesh79/BookVault.git
+  
 
 2.Navigate into the project directory:
     ```bash
@@ -66,7 +67,7 @@ Follow these steps to set up the project locally:
        cd .....\BookVault
    
 3.Install dependencies for the frontend:
-    ```bash
+    
       cd ..\BooKVault
        npm run start-backend
     ```
@@ -77,9 +78,9 @@ Follow these steps to set up the project locally:
     ```
 5.Start the backend server:
     ```bash
-     
+    
      npm start
-    ```
+    
 6.Start the frontend server:
    ```bash
     cd ../frontend
