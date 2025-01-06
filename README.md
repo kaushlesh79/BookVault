@@ -52,7 +52,8 @@ Here are some screenshots showcasing the user interface of the Library Managemen
 ![Initial Database with No Books](public/screenshots/intial_database_no_books.png)
 
 ### Added 1 Book: The Alchemist
-![Added 1 Book The Alchemist](public/screenshots/added_1_book_the_Alchemist.png)
+![Added 1 Book The Alchemist](public/screenshots/added_1_book_the%20Alchemist.png)
+
 
 ### Interface: How to Add Books
 ![Interface How to Add Books](public/screenshots/interface_how_to_add_books.png)
