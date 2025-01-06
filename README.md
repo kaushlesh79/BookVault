@@ -64,7 +64,7 @@ Follow these steps to set up the project locally:
     ```bash
 
        cd .....\BookVault
-    ```
+   
 3.Install dependencies for the frontend:
     ```bash
       cd ..\BooKVault
