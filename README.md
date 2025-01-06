@@ -109,12 +109,19 @@ Follow these steps to set up the project locally:
 
 
 ## Usage
-The frontend will be available at http://localhost:3000.
-The backend (mock API) will be available at http://localhost:5000.
+  The frontend will be available at http://localhost:3000.
+  The backend (mock API) will be available at http://localhost:5000.
+  
+  You can now interact with the library management system through the UI. Add, view, edit, and delete books, and see the changes reflected in 
+  the mock backend.
 
-You can now interact with the library management system through the UI. Add, view, edit, and delete books, and see the changes reflected in the mock backend.
-
-
+## Contributing
+  1.Fork the repository.
+  2.Create a new branch (git checkout -b feature/your-feature-name).
+  3.Make your changes.
+  4.Commit your changes (git commit -am 'Add new feature').
+  5.Push to the branch (git push origin feature/your-feature-name).
+  6.Create a new Pull Request.
 
 
 
